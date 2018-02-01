@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoradingHeard">
+        <attr name="circleStartColor" format="color|reference"/>
+        <attr name="circleEndColor" format="color|reference"/>
+        <attr name="circleArcWidth" format="integer|reference"/>
+        <attr name="circleArcRadian" format="integer|reference"/>
+        <attr name="circleArcSpacing" format="integer|reference"/>
+    </declare-styleable>
+</resources>
